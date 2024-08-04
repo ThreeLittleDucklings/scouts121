@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ThreeLittleDucklings/scouts121/static/css/main.70b038db.css",
+    "main.js": "/ThreeLittleDucklings/scouts121/static/js/main.c7a15bbd.js",
+    "static/media/banner.jpg": "/ThreeLittleDucklings/scouts121/static/media/banner.963fa18b8f05e2c875ef.jpg",
+    "static/media/GeneralSans-Light.ttf": "/ThreeLittleDucklings/scouts121/static/media/GeneralSans-Light.69935ec696c32e0cb38b.ttf",
+    "static/media/GeneralSans-Regular.ttf": "/ThreeLittleDucklings/scouts121/static/media/GeneralSans-Regular.6d91885b9c7fa66bdd05.ttf",
+    "static/media/GeneralSans-Bold.ttf": "/ThreeLittleDucklings/scouts121/static/media/GeneralSans-Bold.148ea237c2c383c0be34.ttf",
+    "static/media/CabinetGrotesk-Medium.ttf": "/ThreeLittleDucklings/scouts121/static/media/CabinetGrotesk-Medium.06e4535179580983658a.ttf",
+    "static/media/CabinetGrotesk-Extrabold.ttf": "/ThreeLittleDucklings/scouts121/static/media/CabinetGrotesk-Extrabold.9ec7766b97fa50aa8241.ttf",
+    "static/media/sgv.svg": "/ThreeLittleDucklings/scouts121/static/media/sgv.b5012fb8a7d4c18ba2e75763727bb528.svg",
+    "static/media/logo.png": "/ThreeLittleDucklings/scouts121/static/media/logo.0e2a1866803d1c0c3a3a.png",
+    "static/media/hopper.svg": "/ThreeLittleDucklings/scouts121/static/media/hopper.5d70938169355a4c9ba74b1f204bee4d.svg",
+    "static/media/Vlaanderen.png": "/ThreeLittleDucklings/scouts121/static/media/Vlaanderen.483df2427573bff19065.png",
+    "index.html": "/ThreeLittleDucklings/scouts121/index.html",
+    "main.70b038db.css.map": "/ThreeLittleDucklings/scouts121/static/css/main.70b038db.css.map",
+    "main.c7a15bbd.js.map": "/ThreeLittleDucklings/scouts121/static/js/main.c7a15bbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70b038db.css",
+    "static/js/main.c7a15bbd.js"
+  ]
+}
