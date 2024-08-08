@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.99bd0faa.css",
-    "main.js": "/static/js/main.c8906f81.js",
+    "main.css": "/static/css/main.b0be9175.css",
+    "main.js": "/static/js/main.ce1f50b7.js",
     "static/media/banner.jpg": "/static/media/banner.fbf80c2cbe0d4b879bcd.jpg",
     "static/media/GeneralSans-Light.ttf": "/static/media/GeneralSans-Light.69935ec696c32e0cb38b.ttf",
     "static/media/GeneralSans-Regular.ttf": "/static/media/GeneralSans-Regular.6d91885b9c7fa66bdd05.ttf",
@@ -14,11 +14,11 @@
     "static/media/hopper.svg": "/static/media/hopper.5d70938169355a4c9ba74b1f204bee4d.svg",
     "static/media/Vlaanderen.png": "/static/media/Vlaanderen.483df2427573bff19065.png",
     "index.html": "/index.html",
-    "main.99bd0faa.css.map": "/static/css/main.99bd0faa.css.map",
-    "main.c8906f81.js.map": "/static/js/main.c8906f81.js.map"
+    "main.b0be9175.css.map": "/static/css/main.b0be9175.css.map",
+    "main.ce1f50b7.js.map": "/static/js/main.ce1f50b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.99bd0faa.css",
-    "static/js/main.c8906f81.js"
+    "static/css/main.b0be9175.css",
+    "static/js/main.ce1f50b7.js"
   ]
 }
