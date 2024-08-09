@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5b9aec66.css",
-    "main.js": "/static/js/main.ba0baea0.js",
+    "main.js": "/static/js/main.27bf96e4.js",
     "static/media/GeneralSans-Light.ttf": "/static/media/GeneralSans-Light.69935ec696c32e0cb38b.ttf",
     "static/media/GeneralSans-Regular.ttf": "/static/media/GeneralSans-Regular.6d91885b9c7fa66bdd05.ttf",
     "static/media/GeneralSans-Bold.ttf": "/static/media/GeneralSans-Bold.148ea237c2c383c0be34.ttf",
@@ -14,10 +14,10 @@
     "static/media/Vlaanderen.png": "/static/media/Vlaanderen.483df2427573bff19065.png",
     "index.html": "/index.html",
     "main.5b9aec66.css.map": "/static/css/main.5b9aec66.css.map",
-    "main.ba0baea0.js.map": "/static/js/main.ba0baea0.js.map"
+    "main.27bf96e4.js.map": "/static/js/main.27bf96e4.js.map"
   },
   "entrypoints": [
     "static/css/main.5b9aec66.css",
-    "static/js/main.ba0baea0.js"
+    "static/js/main.27bf96e4.js"
   ]
 }
