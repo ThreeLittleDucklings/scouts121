@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.9ce01169.css",
-    "main.js": "/static/js/main.5d67d4ff.js",
+    "main.js": "/static/js/main.9c25750b.js",
+    "static/media/demol.jpg": "/static/media/demol.6d604284ad890dcad98a.jpg",
     "static/media/GeneralSans-Light.ttf": "/static/media/GeneralSans-Light.69935ec696c32e0cb38b.ttf",
     "static/media/GeneralSans-Regular.ttf": "/static/media/GeneralSans-Regular.6d91885b9c7fa66bdd05.ttf",
     "static/media/GeneralSans-Bold.ttf": "/static/media/GeneralSans-Bold.148ea237c2c383c0be34.ttf",
@@ -9,15 +10,16 @@
     "static/media/CabinetGrotesk-Extrabold.ttf": "/static/media/CabinetGrotesk-Extrabold.9ec7766b97fa50aa8241.ttf",
     "static/media/sgv.svg": "/static/media/sgv.b5012fb8a7d4c18ba2e75763727bb528.svg",
     "static/media/logo.png": "/static/media/logo.0e2a1866803d1c0c3a3a.png",
+    "static/media/clock.mp3": "/static/media/clock.b769c0a6baf31fd4e727.mp3",
     "static/media/trooper.png": "/static/media/trooper.7bb9d882b3961f1fd1d1.png",
     "static/media/hopper.svg": "/static/media/hopper.5d70938169355a4c9ba74b1f204bee4d.svg",
     "static/media/Vlaanderen.png": "/static/media/Vlaanderen.483df2427573bff19065.png",
     "index.html": "/index.html",
     "main.9ce01169.css.map": "/static/css/main.9ce01169.css.map",
-    "main.5d67d4ff.js.map": "/static/js/main.5d67d4ff.js.map"
+    "main.9c25750b.js.map": "/static/js/main.9c25750b.js.map"
   },
   "entrypoints": [
     "static/css/main.9ce01169.css",
-    "static/js/main.5d67d4ff.js"
+    "static/js/main.9c25750b.js"
   ]
 }
